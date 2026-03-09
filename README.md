@@ -1,3 +1,6 @@
+
+MediBook ( a one stop solution for avoiding long queues in hospitals and booking your appointment with your doctor without any hussle)
+
 A full-stack web application that enables patients to easily discover doctors, view available time slots, and schedule appointments online. The platform provides a smooth and efficient booking experience while allowing administrators to manage doctors and appointments seamlessly.
 
 This project demonstrates the implementation of a modern MERN stack architecture, focusing on scalable backend APIs, responsive frontend design, and efficient database management.
