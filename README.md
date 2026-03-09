@@ -1,5 +1,5 @@
 
-MediBook ( a one stop solution for avoiding long queues in hospitals and booking your appointment with your doctor without any hussle)
+**🏥 MediBook – A One-Stop Platform That Eliminates Long Hospital Queues by Allowing Patients to Book Doctor Appointments Easily and Hassle-Free.**
 
 A full-stack web application that enables patients to easily discover doctors, view available time slots, and schedule appointments online. The platform provides a smooth and efficient booking experience while allowing administrators to manage doctors and appointments seamlessly.
 
